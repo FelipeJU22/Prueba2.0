@@ -19,4 +19,4 @@ jobs:
 
     - name: Run tests
       run: |
-        python Examen2TEST.py
+        python UnitTest.py
